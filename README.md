@@ -1,4 +1,4 @@
-# ℹ️ Análise de um conjunto de dados
+# ℹ️ **Análise de um conjunto de dados**
 
 ### Sua principais funcionalidades:
 - Carregar um conjunto de dados existente;
@@ -6,7 +6,9 @@
 - Trazer gráficos com as análise criadas a partir do dataset.
 
 
-### 🧑‍💻 Tecnologias usadas no código:
+
+
+### 🧑‍💻 ** Tecnologias usadas no código:**
 <div style="display: inline_block"><br/>
   <img align="center" alt="python" src= "https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
   <img align="center" alt="windowns-terminal" src= "https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white">

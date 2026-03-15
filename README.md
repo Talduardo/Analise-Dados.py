@@ -15,7 +15,7 @@ O objetivo é fornecer uma ferramenta prática para transformar dados brutos em 
 
 ## 📂 Estrutura do Projeto:
 
-- **scripts Python** → Código responsável por carregar, processar e analisar os dados.  
+- **analise-dados.py** → Código responsável por carregar, processar e analisar os dados.  
 - **README.md** → Documentação do projeto.
 - **requirements.txt** → bibliotecas usadas.
 
